@@ -1,0 +1,42 @@
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+}
+
+.not-found {
+  min-height: 65vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.not-found h1 {
+  color: #f97316;
+  font-size: 80px;
+  font-weight: 800;
+}
+
+.not-found p {
+  color: #a3a3a3;
+}
+
+.not-found a {
+  padding: 12px 18px;
+  border-radius: 7px;
+  background: #f97316;
+  color: #ffffff;
+}
+
+.not-found a:hover {
+  background: #ea580c;
+}
