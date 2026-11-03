@@ -37,8 +37,8 @@ function Contact() {
           </a>
 
           <p className="contact-note">
-            Replace this example address with your actual email before
-            publishing your portfolio.
+               contact me for any inquiries, collaborations, or just to say hi!
+
           </p>
 
           <div className="contact-divider"></div>
